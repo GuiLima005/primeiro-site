@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+header{
+    text-align: center;
+    height: 200px;
+}
+main{
+    flex-direction: column;
+    margin: 60px;
+}
+.título{
+    margin-top: 0px;
+    font-size: 60px;
+}
+.subtítulo{
+    margin-bottom: 50px;
+    font-size: 2rem;
+}
+.história{
+    font-size: 1.1rem;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.container{
+    text-align: justify;
+    font-size: 1.1rem;
+}
+.imagem{
+    width: 820px;
+}
+.footer{
+    font-size: 1.1rem;
+    background-color: white;
+}
